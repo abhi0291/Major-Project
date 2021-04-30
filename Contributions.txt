@@ -1,0 +1,25 @@
+GROUP 5
+
+Tushar Maloo
+	1) Worked on Linear Regression and SVM Model
+	2) Quantitative Analysis of Effect of Vaccination on Covid-19 Cases
+	3) Writing and Formatting the Report
+	4) Preprocessing and Visualisation of Vaccination Data
+
+Abhivandan Gandhi
+	1) Worked on EDA and visualization of mobility report
+	2) Worked on EDA and visualization of vaccination report
+	3) Writing and formatting the report
+	4) Data Collection
+
+Ayush Kumar
+	1) Data analysis and visualization of COVID-19 spread
+	2) Forecasting and predicting the spread of COVID-19 for the next few days
+	3) Qualitative Analysis of the effect of vaccination on Covid-19 spread and mortality
+	4) Writing and formatting the report
+
+Vedant Bordia
+	1) Data Collection and Cleaning
+	2) Quantitative Analysis of the effect of vaccination on Covid-19 spread
+	3) Data Collection
+	4) Writing and formatting the report
